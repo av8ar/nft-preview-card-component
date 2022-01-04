@@ -1,0 +1,55 @@
+body {
+  color: hsl(215, 51%, 70%);
+  background-color: hsl(217, 54%, 11%);
+
+}
+img {
+  border-radius: 16px;
+}
+div {
+  border: 2px solid hsl(215, 32%, 27%);
+  border-radius: 16px;
+  padding: 20px;
+  margin-left: 150px;
+  width: 20rem;
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+hr {
+  width: 15em;
+  border-color: hsl(215, 51%, 70%);
+}
+p {
+  font-size: 18px;
+}
+span {
+  color: hsl(0, 0%, 100%);
+}
+span:hover {
+  color: hsl(178, 100%, 50%);
+}
+.card {
+  background-color: hsl(216, 50%, 16%);
+
+}
+.cyan {
+  color: hsl(178, 100%, 50%);
+  position: relative;
+  display: inline;
+  margin-right: 50px;
+}
+.time {
+  position: relative;
+  display: inline;
+  margin-left: 10px;
+}
+.footer {
+
+}
+.avatar {
+  position: relative;
+  display: inline-block;
+  margin-right: 20px;
+}
